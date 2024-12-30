@@ -1,4 +1,4 @@
-# Pre-Process-Diabetes-Data-for-Reliable-Machine-Learning-Model
+# Pre-Processing-Diabetes-Data-for-Reliable-Machine-Learning-Model
 "Unlocking Insights Through Effective Data Pre-Processing 🚀"
 
 🔎 Title: Pre-Process Diabetes Data for Reliable Machine Learning Model
